@@ -1,0 +1,40 @@
+h1 {
+    color: indigo;
+    /*letra*/
+    background-color: aqua;
+    /*fondo*/
+}
+
+h2{
+    color: maroon;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    color: navy;
+    line-height: 15px;
+}
+
+.destacados{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+#contenedor{
+    width: 250px;
+    height: 250px;
+    background-color: chocolate;
+    border: 3px solid;
+    border-color: black;
+    border-bottom: 10px double;
+    border-top: 10px inset;
+    box-sizing: border-box;
+    padding: 20px;
+    padding-top: 5px;
+    margin-left: 40px;
+}
+#contenedor p{
+    color: black;
+}
