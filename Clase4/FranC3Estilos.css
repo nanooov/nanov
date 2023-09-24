@@ -1,0 +1,137 @@
+#Nombre {
+    font-size: 60px;
+    line-height: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    margin-left: 150px;
+    justify-content: center;
+}
+
+#apellido {
+    font-size: 60px;
+    line-height: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    margin-left: 150px;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -220px;
+    justify-content: center;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -190px;
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    /* No entiendo porque no se pone la letra negrita*/
+    text-decoration: underline;
+    display: flex;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 60px;
+}
+
+#a {
+    font-family: 'Courier New', Courier, monospace;
+/* No encuentro la propiedad para mover texto por eso utilizo margin*/
+    margin-top: -10px;
+    margin-left: 35px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#b {
+    font-family: 'Courier New', Courier, monospace;
+
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#c {
+    font-family: 'Courier New', Courier, monospace;
+
+    margin-left: -215px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#d {
+    font-family: 'Courier New', Courier, monospace;
+
+    margin-left: 467px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#e{
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#icon{
+    margin-left: 200px;
+}
+
+#DatoB {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+}
+
+#DatoA {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -230px;
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+}
+
+#DatoP {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: left;
+    margin-top: 220px;
+    margin-left: 40px;
+}
+
+
+img {
+    width: auto;
+    height: 380px;
+    margin-top: -160px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    display: flex;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+
+div {
+    background-color: rgb(68, 54, 146);
+    height: 390px;
+    width: 295px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
