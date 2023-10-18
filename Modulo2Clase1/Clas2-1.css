@@ -1,0 +1,26 @@
+.Remera{
+    background: rgb(14,0,255);
+    background: linear-gradient(90deg, rgba(14,0,255,1) 0%, rgba(245,255,0,1) 50%, rgba(0,22,255,1) 100%);
+    width: 600px;
+    padding: 25px;
+    color: rgb(204, 130, 20);
+    box-shadow: 15px 15px 80px rgb(46, 56, 190);
+    border-radius: 40px 5px;
+}
+
+.textoabc{
+     padding: 15px;
+     background-color: grey;
+     column-count: 4;
+     font-weight: bold;
+     column-gap: 300px;
+      column-rule: 10px dashed;
+      column-rule-color: brown;
+      font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+h3{
+    font-family: 'Yuji Hentaigana Akari', cursive;
+
+}

@@ -1,0 +1,159 @@
+/* 
+font-family: 'Patrick Hand SC', cursive;
+font-family: 'Young Serif', serif;
+*/
+
+
+
+#Nombre {
+    font-size: 60px;
+    line-height: 35px;
+    font-family: 'Young Serif', serif;
+    display: flex;
+    margin-left: 150px;
+    justify-content: center;
+    text-shadow: -9px 6px 13px rgba(0,0,0,0.35);
+
+}
+
+#apellido {
+    font-size: 60px;
+    line-height: 35px;
+    font-family: 'Young Serif', serif;
+    display: flex;
+    margin-left: 150px;
+    justify-content: center;
+    text-shadow: -9px 6px 13px rgba(0,0,0,0.35);
+
+}
+
+h2 {
+    font-family: 'Patrick Hand SC', cursive;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -220px;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+
+h3 {
+    font-family: 'Patrick Hand SC', cursive;
+    margin-top: -190px;
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    /* No entiendo porque no se pone la letra negrita*/
+    text-decoration: underline;
+    display: flex;
+}
+
+li{
+    font-family: 'Patrick Hand SC', cursive;
+    margin-left: 60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#a {
+    font-family: 'Patrick Hand SC', cursive;
+/* No encuentro la propiedad para mover texto por eso utilizo margin*/
+    margin-top: -10px;
+    margin-left: 75px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#b {
+    font-family: 'Patrick Hand SC', cursive;
+
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#c {
+    font-family: 'Patrick Hand SC', cursive;
+    margin-left:  80px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#d {
+    font-family: 'Patrick Hand SC', cursive;
+    margin-left: 167px;
+    justify-content: center;
+    font-weight: bold;
+    display: flex;
+}
+
+#e{
+    margin-top: 100px;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}
+
+#icon{
+    margin-left: 200px;
+}
+
+#DatoB {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+    font-size: 25px;
+}
+
+#DatoA {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -230px;
+    margin-left: 150px;
+    justify-content: center;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+    font-size: 25px;
+    
+}
+
+#DatoP {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    
+    justify-content: left;
+    margin-top: 220px;
+    margin-left: 40px;
+    font-size: 25px;
+    
+}
+
+
+img {
+    width: auto;
+    height: 380px;
+    margin-top: -160px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    display: flex;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+
+div {
+    background-color: rgb(68, 54, 146);
+    height: 390px;
+    width: 295px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
